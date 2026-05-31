@@ -36,8 +36,8 @@
     <path d="M1160 0V360" stroke="white"/>
   </g>
 
-  <rect x="72" y="52" width="184" height="38" rx="19" fill="#0E1E34" stroke="#284661"/>
-  <text x="103" y="76" fill="#79E2C0" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.8">PORTFOLIO BRIEFING</text>
+  <rect x="72" y="52" width="248" height="38" rx="19" fill="#0E1E34" stroke="#284661"/>
+  <text x="95" y="76" fill="#79E2C0" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.6">PORTFOLIO BRIEFING</text>
 
   <text x="72" y="154" fill="#F4F7FB" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800">Cybersecurity Portfolio</text>
   <text x="72" y="194" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="22">Built by Abdul Rauf Yousofzay to present my work, mindset,</text>
@@ -51,13 +51,13 @@
   <text x="312" y="291" fill="#DDE9F7" font-family="Arial, Helvetica, sans-serif" font-size="16">Detection &amp; Response</text>
   <text x="533" y="291" fill="#DDE9F7" font-family="Arial, Helvetica, sans-serif" font-size="16">Risk Reduction</text>
 
-  <rect x="928" y="54" width="292" height="78" rx="22" fill="#0D1930" stroke="#254362"/>
-  <rect x="928" y="144" width="292" height="84" rx="22" fill="#0D1930" stroke="#254362"/>
-  <rect x="928" y="240" width="292" height="84" rx="22" fill="#0D1930" stroke="#254362"/>
-  <text x="960" y="106" fill="#FF9E65" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">4+</text>
-  <text x="960" y="128" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="17">Years in cybersecurity</text>
-  <text x="960" y="194" fill="#FF9E65" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800">AI / API</text>
-  <text x="960" y="218" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="15">security and cloud service review</text>
-  <text x="960" y="288" fill="#FF9E65" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800">Enterprise IAM</text>
-  <text x="960" y="312" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="15">configuration and access controls</text>
+  <rect x="908" y="54" width="312" height="78" rx="22" fill="#0D1930" stroke="#254362"/>
+  <rect x="908" y="144" width="312" height="84" rx="22" fill="#0D1930" stroke="#254362"/>
+  <rect x="908" y="240" width="312" height="84" rx="22" fill="#0D1930" stroke="#254362"/>
+  <text x="940" y="106" fill="#FF9E65" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">4+</text>
+  <text x="940" y="128" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="16">Years in cybersecurity</text>
+  <text x="940" y="194" fill="#FF9E65" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="800">AI / API</text>
+  <text x="940" y="216" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="14">cloud service security</text>
+  <text x="940" y="288" fill="#FF9E65" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="800">Enterprise IAM</text>
+  <text x="940" y="310" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="14">configuration at enterprise scale</text>
 </svg>
