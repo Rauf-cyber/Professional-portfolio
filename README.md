@@ -57,11 +57,9 @@ pie title Main themes represented in this portfolio
 
 ## Education
 
-| Degree | Institution | Notes |
-|---|---|---|
-| M.S. Cybersecurity Engineering | George Mason University | Secure Systems Design, Threat Modeling, Cloud Security |
-| B.A.S. Cybersecurity | George Mason University | GPA 3.5, GMU Cybersecurity Association, CCDC |
-| A.A.S. Cybersecurity | Northern Virginia Community College | GPA 3.7, Magna Cum Laude |
+<p align="center">
+  <img src="./assets/readme-education-panel.svg" alt="Education section styled with academic portfolio cards" width="100%" />
+</p>
 
 ## Credentials
 
