@@ -51,13 +51,13 @@
   <text x="312" y="291" fill="#DDE9F7" font-family="Arial, Helvetica, sans-serif" font-size="16">Detection &amp; Response</text>
   <text x="533" y="291" fill="#DDE9F7" font-family="Arial, Helvetica, sans-serif" font-size="16">Risk Reduction</text>
 
-  <rect x="928" y="60" width="278" height="74" rx="22" fill="#0D1930" stroke="#254362"/>
-  <rect x="928" y="146" width="278" height="74" rx="22" fill="#0D1930" stroke="#254362"/>
-  <rect x="928" y="232" width="278" height="74" rx="22" fill="#0D1930" stroke="#254362"/>
+  <rect x="928" y="54" width="292" height="78" rx="22" fill="#0D1930" stroke="#254362"/>
+  <rect x="928" y="144" width="292" height="84" rx="22" fill="#0D1930" stroke="#254362"/>
+  <rect x="928" y="240" width="292" height="84" rx="22" fill="#0D1930" stroke="#254362"/>
   <text x="960" y="106" fill="#FF9E65" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">4+</text>
   <text x="960" y="128" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="17">Years in cybersecurity</text>
-  <text x="960" y="192" fill="#FF9E65" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800">AI / API</text>
-  <text x="960" y="214" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="17">security and cloud service review</text>
-  <text x="960" y="278" fill="#FF9E65" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800">Enterprise IAM</text>
-  <text x="960" y="300" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="17">configuration and access controls</text>
+  <text x="960" y="194" fill="#FF9E65" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800">AI / API</text>
+  <text x="960" y="218" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="15">security and cloud service review</text>
+  <text x="960" y="288" fill="#FF9E65" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800">Enterprise IAM</text>
+  <text x="960" y="312" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="15">configuration and access controls</text>
 </svg>
