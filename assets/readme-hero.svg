@@ -1,0 +1,65 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.55" stop-color="#091523"/>
+      <stop offset="1" stop-color="#16141E"/>
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(160 120) rotate(28) scale(420 260)">
+      <stop stop-color="#79E2C0" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#79E2C0" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1110 120) rotate(145) scale(380 240)">
+      <stop stop-color="#FF9E65" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#FF9E65" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="420" rx="28" fill="url(#glowLeft)"/>
+  <rect width="1280" height="420" rx="28" fill="url(#glowRight)"/>
+
+  <g opacity="0.07">
+    <path d="M0 84H1280" stroke="white"/>
+    <path d="M0 168H1280" stroke="white"/>
+    <path d="M0 252H1280" stroke="white"/>
+    <path d="M0 336H1280" stroke="white"/>
+    <path d="M116 0V420" stroke="white"/>
+    <path d="M232 0V420" stroke="white"/>
+    <path d="M348 0V420" stroke="white"/>
+    <path d="M464 0V420" stroke="white"/>
+    <path d="M580 0V420" stroke="white"/>
+    <path d="M696 0V420" stroke="white"/>
+    <path d="M812 0V420" stroke="white"/>
+    <path d="M928 0V420" stroke="white"/>
+    <path d="M1044 0V420" stroke="white"/>
+    <path d="M1160 0V420" stroke="white"/>
+  </g>
+
+  <rect x="72" y="58" width="160" height="40" rx="20" fill="#0E1E34" stroke="#23425D"/>
+  <text x="103" y="84" fill="#79E2C0" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1.6">CYBER PORTFOLIO</text>
+
+  <text x="72" y="176" fill="#F4F7FB" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="800">Abdul Rauf Yousofzay</text>
+  <text x="72" y="224" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="28">Cybersecurity Engineer focused on cloud security, incident response,</text>
+  <text x="72" y="260" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="28">vulnerability management, and enterprise risk reduction.</text>
+
+  <rect x="72" y="306" width="214" height="42" rx="21" fill="#102039" stroke="#294A67"/>
+  <rect x="300" y="306" width="212" height="42" rx="21" fill="#102039" stroke="#294A67"/>
+  <rect x="526" y="306" width="188" height="42" rx="21" fill="#102039" stroke="#294A67"/>
+  <text x="104" y="333" fill="#DDE9F7" font-family="Arial, Helvetica, sans-serif" font-size="18">Multi-Cloud Security</text>
+  <text x="329" y="333" fill="#DDE9F7" font-family="Arial, Helvetica, sans-serif" font-size="18">Detection and Response</text>
+  <text x="566" y="333" fill="#DDE9F7" font-family="Arial, Helvetica, sans-serif" font-size="18">IAM and Governance</text>
+
+  <rect x="948" y="72" width="258" height="92" rx="26" fill="#0D1930" stroke="#254362"/>
+  <rect x="948" y="182" width="258" height="92" rx="26" fill="#0D1930" stroke="#254362"/>
+  <rect x="948" y="292" width="258" height="92" rx="26" fill="#0D1930" stroke="#254362"/>
+
+  <text x="980" y="128" fill="#FF9E65" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="800">4+</text>
+  <text x="980" y="156" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="18">Years in cybersecurity</text>
+
+  <text x="980" y="238" fill="#FF9E65" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="800">25+</text>
+  <text x="980" y="266" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="18">Investigations supported</text>
+
+  <text x="980" y="348" fill="#FF9E65" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="800">150+</text>
+  <text x="980" y="376" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="18">Vulnerabilities remediated</text>
+</svg>
