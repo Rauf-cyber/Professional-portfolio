@@ -5,7 +5,9 @@
 <p align="center">
   <a href="#why-i-built-this-repo">Why I Built This Repo</a> •
   <a href="#how-i-approach-security">How I Approach Security</a> •
+  <a href="#security-dashboard">Dashboard</a> •
   <a href="#security-operating-loop">Operating Loop</a> •
+  <a href="#portfolio-theme-mix">Theme Mix</a> •
   <a href="#experience-snapshot">Experience</a> •
   <a href="#education">Education</a> •
   <a href="#credentials">Credentials</a> •
@@ -28,7 +30,12 @@ It also reflects work I have done across cloud security, incident response, vuln
 - I like security work that turns messy technical findings into clear action.
 - I care about controls that are useful in real environments, not just good on paper.
 - I enjoy connecting cloud risk, threat detection, remediation, and governance into one workflow.
-- I work best when I can partner with engineering and security teams to make improvements stick.
+
+## Security Dashboard
+
+<p align="center">
+  <img src="./assets/readme-dashboard.svg" alt="Security dashboard showing portfolio workstreams, environments, and tools" width="100%" />
+</p>
 
 ## Security Operating Loop
 
@@ -41,6 +48,19 @@ flowchart LR
     E --> F["Improve<br/>Security posture and resilience"]
 ```
 
+## Portfolio Theme Mix
+
+This chart shows the main themes I emphasize across this portfolio.
+
+```mermaid
+pie title Main themes represented in this portfolio
+    "Cloud Security" : 30
+    "Detection and Response" : 24
+    "Vulnerability Management" : 18
+    "Governance and Controls" : 16
+    "Infrastructure Security" : 12
+```
+
 ## What This Portfolio Highlights
 
 | Area | Highlights |
@@ -49,7 +69,7 @@ flowchart LR
 | Detection & Response | Threat validation, Splunk triage, incident escalation, and operational workflow tuning |
 | Vulnerability Management | Prioritization and remediation support for high-risk findings across enterprise environments |
 | Governance & Controls | IAM, logging, monitoring, and framework-aligned security decision support |
-| Collaboration | Working across security and engineering teams to turn findings into practical remediation |
+| Enterprise Security | Supporting practical remediation and control improvement across real operational environments |
 
 ## Experience Snapshot
 
