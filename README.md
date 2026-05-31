@@ -1,12 +1,17 @@
 # Professional Portfolio
 
-Public portfolio site for Abdul Rauf Yousofzay.
+This repository contains the source code for Abdul Rauf Yousofzay's public portfolio site.
 
-## Live Site
+## View The Website
 
-After GitHub Pages is enabled for this repository, the site will be available at:
+Use this URL to open the actual portfolio website:
 
-`https://rauf-cyber.github.io/Professional-portfolio/`
+[https://rauf-cyber.github.io/Professional-portfolio/](https://rauf-cyber.github.io/Professional-portfolio/)
+
+## Important Note
+
+The GitHub repository page shows files and the README.
+The portfolio itself opens on the GitHub Pages link above.
 
 ## Stack
 
