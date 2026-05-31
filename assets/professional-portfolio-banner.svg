@@ -1,0 +1,77 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A1A27"/>
+      <stop offset="0.55" stop-color="#0B1320"/>
+      <stop offset="1" stop-color="#1A1822"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="150" y1="120" x2="1060" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#79E2C0" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#FF9E65" stop-opacity="0.24"/>
+    </linearGradient>
+    <linearGradient id="pill" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#79E2C0"/>
+      <stop offset="1" stop-color="#B5F7E1"/>
+    </linearGradient>
+    <filter id="shadow" x="96" y="74" width="1088" height="500" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="22"/>
+      <feGaussianBlur stdDeviation="26"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_2"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_2" result="shape"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="640" rx="24" fill="url(#bg)"/>
+  <path d="M0 0H1280V640H0V0Z" fill="url(#accent)"/>
+
+  <g opacity="0.09">
+    <path d="M0 98H1280" stroke="white"/>
+    <path d="M0 192H1280" stroke="white"/>
+    <path d="M0 286H1280" stroke="white"/>
+    <path d="M0 380H1280" stroke="white"/>
+    <path d="M0 474H1280" stroke="white"/>
+    <path d="M0 568H1280" stroke="white"/>
+    <path d="M98 0V640" stroke="white"/>
+    <path d="M192 0V640" stroke="white"/>
+    <path d="M286 0V640" stroke="white"/>
+    <path d="M380 0V640" stroke="white"/>
+    <path d="M474 0V640" stroke="white"/>
+    <path d="M568 0V640" stroke="white"/>
+    <path d="M662 0V640" stroke="white"/>
+    <path d="M756 0V640" stroke="white"/>
+    <path d="M850 0V640" stroke="white"/>
+    <path d="M944 0V640" stroke="white"/>
+    <path d="M1038 0V640" stroke="white"/>
+    <path d="M1132 0V640" stroke="white"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="148" y="126" width="984" height="396" rx="36" fill="#0A1525" fill-opacity="0.94" stroke="#213A59" stroke-width="2"/>
+  </g>
+
+  <rect x="190" y="166" width="280" height="34" rx="17" fill="url(#pill)" fill-opacity="0.14" stroke="#79E2C0" stroke-opacity="0.35"/>
+  <text x="212" y="188" fill="#79E2C0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="1.8">CLOUD SECURITY • INCIDENT RESPONSE</text>
+
+  <text x="190" y="284" fill="#F3F7FC" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800">Abdul Rauf</text>
+  <text x="190" y="366" fill="#F3F7FC" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800">Yousofzay</text>
+
+  <text x="190" y="430" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="27">Cybersecurity Engineer focused on multi-cloud security,</text>
+  <text x="190" y="466" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="27">detection workflows, vulnerability management, and</text>
+  <text x="190" y="502" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="27">enterprise risk reduction.</text>
+
+  <rect x="864" y="190" width="204" height="84" rx="24" fill="#0F1C31" stroke="#243E61"/>
+  <text x="894" y="232" fill="#FF9E65" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="800">4+</text>
+  <text x="894" y="260" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="18">Years in cybersecurity</text>
+
+  <rect x="864" y="292" width="204" height="84" rx="24" fill="#0F1C31" stroke="#243E61"/>
+  <text x="894" y="334" fill="#FF9E65" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="800">25+</text>
+  <text x="894" y="362" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="18">Investigations supported</text>
+
+  <rect x="864" y="394" width="204" height="84" rx="24" fill="#0F1C31" stroke="#243E61"/>
+  <text x="894" y="436" fill="#FF9E65" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="800">150+</text>
+  <text x="894" y="464" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="18">Vulnerabilities remediated</text>
+</svg>
