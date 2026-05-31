@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="#why-i-built-this-repo">Why I Built This Repo</a> •
+  <a href="#professional-summary">Professional Summary</a> •
   <a href="#how-i-approach-security">How I Approach Security</a> •
   <a href="#security-dashboard">Dashboard</a> •
   <a href="#portfolio-theme-mix">Theme Mix</a> •
@@ -16,13 +16,13 @@
 
 ---
 
-## Why I Built This Repo
+## Professional Summary
 
-I built this repository as the home for my cybersecurity portfolio.
+I’m a cybersecurity professional with 4+ years of experience across cloud security, API security, incident response, vulnerability management, cloud controls, and enterprise security operations.
 
-Instead of only dropping in a resume, I wanted a place that shows how I think about security work, the environments I have supported, and the kind of problems I like solving. This repo is meant to feel like a practical portfolio briefing: clear, technical, and still personal.
+My work has focused on assessing risk, reviewing cloud configurations and access controls, improving detection and response workflows, and helping teams turn technical findings into practical remediation across finance, government, and infrastructure environments.
 
-It also reflects work I have done across cloud security, incident response, vulnerability management, governance, and enterprise security operations.
+I bring hands-on experience across AWS, Azure, and GCP, with a strong interest in security work that improves real-world control effectiveness, visibility, and resilience.
 
 ## How I Approach Security
 
