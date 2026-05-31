@@ -1,18 +1,11 @@
 <p align="center">
-  <img src="./assets/professional-portfolio-banner.svg" alt="Professional portfolio banner for Abdul Rauf Yousofzay" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Multi--Cloud_Security-79E2C0?style=for-the-badge&labelColor=0A1525" alt="Multi-Cloud Security badge" />
-  <img src="https://img.shields.io/badge/Incident_Response-FF9E65?style=for-the-badge&labelColor=0A1525" alt="Incident Response badge" />
-  <img src="https://img.shields.io/badge/Vulnerability_Management-A9BBD3?style=for-the-badge&labelColor=0A1525" alt="Vulnerability Management badge" />
-  <img src="https://img.shields.io/badge/Security_Operations-213A59?style=for-the-badge&labelColor=0A1525" alt="Security Operations badge" />
+  <img src="./assets/readme-website-showcase.svg" alt="README portfolio showcase styled like the website" width="100%" />
 </p>
 
 <p align="center">
   <a href="#overview">Overview</a> •
   <a href="#current-focus">Current Focus</a> •
-  <a href="#impact-snapshot">Impact</a> •
+  <a href="#professional-experience">Experience</a> •
   <a href="#career-highlights">Career Highlights</a> •
   <a href="#education">Education</a> •
   <a href="#certifications">Certifications</a> •
@@ -34,15 +27,6 @@ The goal of this portfolio is to present a **clean GitHub-facing portfolio summa
 - Vulnerability analysis and remediation prioritization
 - IAM, logging, monitoring, and governance control reviews
 - Security operations support in finance, government, and enterprise environments
-
-## Impact Snapshot
-
-| Metric | Value |
-|---|---|
-| Years in cybersecurity | **4+** |
-| Forensic investigations supported | **25+** |
-| Vulnerabilities remediated | **150+** |
-| Enterprise environments supported | **Finance, Government, Infrastructure** |
 
 ## Career Highlights
 
@@ -105,7 +89,7 @@ The goal of this portfolio is to present a **clean GitHub-facing portfolio summa
 
 - HTML
 - CSS
-- GitHub Pages
+- GitHub Pages workflow
 
 ## Connect
 
