@@ -8,10 +8,10 @@
   <a href="#security-dashboard">Dashboard</a> •
   <a href="#security-operating-loop">Operating Loop</a> •
   <a href="#portfolio-theme-mix">Theme Mix</a> •
-  <a href="#experience-snapshot">Experience</a> •
+  <a href="#experience-journey">Experience</a> •
   <a href="#education">Education</a> •
   <a href="#credentials">Credentials</a> •
-  <a href="#platforms-and-tools">Tools</a> •
+  <a href="#operator-toolkit">Toolkit</a> •
   <a href="#connect">Connect</a>
 </p>
 
@@ -61,34 +61,28 @@ pie title Main themes represented in this portfolio
     "Infrastructure Security" : 12
 ```
 
-## What This Portfolio Highlights
+## Mission Themes
 
-| Area | Highlights |
-|---|---|
-| Cloud Security | Reviews across AWS, Azure, and GCP with focus on permissions, misconfigurations, and control posture |
-| Detection & Response | Threat validation, Splunk triage, incident escalation, and operational workflow tuning |
-| Vulnerability Management | Prioritization and remediation support for high-risk findings across enterprise environments |
-| Governance & Controls | IAM, logging, monitoring, and framework-aligned security decision support |
-| Enterprise Security | Supporting practical remediation and control improvement across real operational environments |
+<p align="center">
+  <img src="./assets/readme-mission-grid.svg" alt="Mission themes across cloud security, detection, remediation, and hardening" width="100%" />
+</p>
 
-## Experience Snapshot
+## Experience Journey
 
-| Organization | Role | Focus |
-|---|---|---|
-| Capital One | Cybersecurity Engineer | Multi-cloud reviews, control assessments, governance, and detection coverage |
-| HHS / IHS Division | Cybersecurity Analyst | Threat assessments, Splunk triage, Tenable remediation, and CSIRT support |
-| Navy Federal Credit Union | Security Analyst | External threat review, FedRAMP-aligned assessments, and secure access support |
-| Network-Fort | Cybersecurity Intern | Endpoint remediation, Azure AD controls, XSOAR workflows, and AWS IAM support |
-| Amazon Data Center | IT Support Associate | Infrastructure troubleshooting, hardware support, and uptime improvement |
-
-## Selected Signals
-
-| Signal | Value |
-|---|---|
-| Years in cybersecurity | **4+** |
-| Forensic investigations supported | **25+** |
-| Vulnerabilities remediated | **150+** |
-| Primary environments | **Finance, Government, Infrastructure** |
+```mermaid
+timeline
+    title Security Experience Journey
+    2021-2022 : Amazon Data Center
+              : Infrastructure support and hardware troubleshooting
+    2023      : Network-Fort
+              : Endpoint remediation, Azure AD controls, XSOAR, AWS IAM
+    2024      : Navy Federal Credit Union
+              : External threat review, secure access support, FedRAMP-aligned assessments
+    2025-2026 : HHS / IHS Division
+              : Threat assessments, Splunk triage, Tenable remediation, CSIRT support
+    2026-Present : Capital One
+                 : Multi-cloud reviews, governance, control assessments, detection coverage
+```
 
 ## Education
 
@@ -100,7 +94,9 @@ pie title Main themes represented in this portfolio
 
 ## Credentials
 
-### Certifications
+<p align="center">
+  <img src="./assets/readme-credentials-panel.svg" alt="Credentials and platforms panel" width="100%" />
+</p>
 
 - [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/49d31f7b-cb0d-474d-a351-a5c2ccdaf2ce#acc.EvaD2HL9)
 - Security+
@@ -110,15 +106,9 @@ pie title Main themes represented in this portfolio
 - CSC - Cybersecurity
 - CSC - Governance, Risk, and Compliance
 
-### Areas I’ve Studied and Built Through
+## Operator Toolkit
 
-- Cloud security and IAM
-- Threat modeling and secure systems design
-- Vulnerability assessment and remediation
-- Security operations and incident response
-- Risk management and governance practices
-
-## Platforms and Tools
+These are some of the platforms and technologies that show up most often across my work.
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
