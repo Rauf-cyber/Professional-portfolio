@@ -71,14 +71,6 @@ pie title Main themes represented in this portfolio
   <img src="./assets/readme-credentials-tools-strip.svg" alt="Tools and platforms used across Abdul Rauf Yousofzay's work" width="100%" />
 </p>
 
-- [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/49d31f7b-cb0d-474d-a351-a5c2ccdaf2ce#acc.EvaD2HL9)
-- Security+
-- Network+
-- Splunk Core Investigating and Threat Hunting
-- CSC - Network Administration
-- CSC - Cybersecurity
-- CSC - Governance, Risk, and Compliance
-
 ## Operator Toolkit
 
 These are some of the platforms and technologies that show up most often across my work.
