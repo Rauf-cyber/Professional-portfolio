@@ -40,8 +40,9 @@
   <text x="103" y="76" fill="#79E2C0" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.8">PORTFOLIO BRIEFING</text>
 
   <text x="72" y="154" fill="#F4F7FB" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800">Cybersecurity Portfolio</text>
-  <text x="72" y="194" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="24">Built by Abdul Rauf Yousofzay to present my work, mindset, and</text>
-  <text x="72" y="226" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="24">experience across cloud security, response, remediation, and control improvement.</text>
+  <text x="72" y="194" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="22">Built by Abdul Rauf Yousofzay to present my work, mindset,</text>
+  <text x="72" y="224" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="22">and experience across cloud security, cloud controls,</text>
+  <text x="72" y="254" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="22">AI and API security, IAM configuration, and remediation.</text>
 
   <rect x="72" y="266" width="194" height="38" rx="19" fill="#102039" stroke="#294A67"/>
   <rect x="280" y="266" width="204" height="38" rx="19" fill="#102039" stroke="#294A67"/>
@@ -55,8 +56,8 @@
   <rect x="928" y="232" width="278" height="74" rx="22" fill="#0D1930" stroke="#254362"/>
   <text x="960" y="106" fill="#FF9E65" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">4+</text>
   <text x="960" y="128" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="17">Years in cybersecurity</text>
-  <text x="960" y="192" fill="#FF9E65" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">25+</text>
-  <text x="960" y="214" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="17">Investigations supported</text>
-  <text x="960" y="278" fill="#FF9E65" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">150+</text>
-  <text x="960" y="300" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="17">Vulnerabilities remediated</text>
+  <text x="960" y="192" fill="#FF9E65" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800">AI / API</text>
+  <text x="960" y="214" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="17">security and cloud service review</text>
+  <text x="960" y="278" fill="#FF9E65" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800">Enterprise IAM</text>
+  <text x="960" y="300" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="17">configuration and access controls</text>
 </svg>
