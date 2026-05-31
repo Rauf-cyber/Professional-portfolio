@@ -1,66 +1,88 @@
-<svg width="1280" height="1180" viewBox="0 0 1280 1180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1280" height="1760" viewBox="0 0 1280 1760" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="1180" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="1760" gradientUnits="userSpaceOnUse">
       <stop stop-color="#08111F"/>
       <stop offset="0.58" stop-color="#0B1523"/>
       <stop offset="1" stop-color="#14141D"/>
     </linearGradient>
   </defs>
 
-  <rect width="1280" height="1180" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="1760" rx="28" fill="url(#bg)"/>
 
   <g opacity="0.06">
-    <path d="M0 84H1280" stroke="white"/>
-    <path d="M0 168H1280" stroke="white"/>
-    <path d="M0 252H1280" stroke="white"/>
-    <path d="M0 336H1280" stroke="white"/>
-    <path d="M0 420H1280" stroke="white"/>
-    <path d="M0 504H1280" stroke="white"/>
-    <path d="M0 588H1280" stroke="white"/>
-    <path d="M0 672H1280" stroke="white"/>
-    <path d="M0 756H1280" stroke="white"/>
-    <path d="M0 840H1280" stroke="white"/>
-    <path d="M0 924H1280" stroke="white"/>
-    <path d="M0 1008H1280" stroke="white"/>
-    <path d="M0 1092H1280" stroke="white"/>
-    <path d="M116 0V1180" stroke="white"/>
-    <path d="M232 0V1180" stroke="white"/>
-    <path d="M348 0V1180" stroke="white"/>
-    <path d="M464 0V1180" stroke="white"/>
-    <path d="M580 0V1180" stroke="white"/>
-    <path d="M696 0V1180" stroke="white"/>
-    <path d="M812 0V1180" stroke="white"/>
-    <path d="M928 0V1180" stroke="white"/>
-    <path d="M1044 0V1180" stroke="white"/>
-    <path d="M1160 0V1180" stroke="white"/>
+    <path d="M0 88H1280" stroke="white"/>
+    <path d="M0 176H1280" stroke="white"/>
+    <path d="M0 264H1280" stroke="white"/>
+    <path d="M0 352H1280" stroke="white"/>
+    <path d="M0 440H1280" stroke="white"/>
+    <path d="M0 528H1280" stroke="white"/>
+    <path d="M0 616H1280" stroke="white"/>
+    <path d="M0 704H1280" stroke="white"/>
+    <path d="M0 792H1280" stroke="white"/>
+    <path d="M0 880H1280" stroke="white"/>
+    <path d="M0 968H1280" stroke="white"/>
+    <path d="M0 1056H1280" stroke="white"/>
+    <path d="M0 1144H1280" stroke="white"/>
+    <path d="M0 1232H1280" stroke="white"/>
+    <path d="M0 1320H1280" stroke="white"/>
+    <path d="M0 1408H1280" stroke="white"/>
+    <path d="M0 1496H1280" stroke="white"/>
+    <path d="M0 1584H1280" stroke="white"/>
+    <path d="M0 1672H1280" stroke="white"/>
+    <path d="M116 0V1760" stroke="white"/>
+    <path d="M232 0V1760" stroke="white"/>
+    <path d="M348 0V1760" stroke="white"/>
+    <path d="M464 0V1760" stroke="white"/>
+    <path d="M580 0V1760" stroke="white"/>
+    <path d="M696 0V1760" stroke="white"/>
+    <path d="M812 0V1760" stroke="white"/>
+    <path d="M928 0V1760" stroke="white"/>
+    <path d="M1044 0V1760" stroke="white"/>
+    <path d="M1160 0V1760" stroke="white"/>
   </g>
 
   <text x="56" y="62" fill="#79E2C0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="1.8">EXPERIENCE</text>
-  <text x="56" y="152" fill="#F4F7FB" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800">Building stronger</text>
-  <text x="56" y="228" fill="#F4F7FB" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800">security posture</text>
-  <text x="56" y="304" fill="#F4F7FB" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800">across finance,</text>
-  <text x="56" y="380" fill="#F4F7FB" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800">government, and</text>
-  <text x="56" y="456" fill="#F4F7FB" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800">infrastructure</text>
+  <text x="56" y="138" fill="#F4F7FB" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800">Building stronger security posture</text>
+  <text x="56" y="202" fill="#F4F7FB" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800">across finance, government, and infrastructure</text>
 
-  <rect x="56" y="508" width="1168" height="250" rx="28" fill="#0D1A2D" stroke="#243E5A" stroke-width="2"/>
-  <rect x="56" y="786" width="1168" height="250" rx="28" fill="#0D1A2D" stroke="#243E5A" stroke-width="2"/>
-  <rect x="56" y="1064" width="1168" height="84" rx="24" fill="#0D1A2D" stroke="#243E5A" stroke-width="2"/>
+  <rect x="56" y="270" width="1168" height="230" rx="28" fill="#0D1A2D" stroke="#243E5A" stroke-width="2"/>
+  <rect x="56" y="528" width="1168" height="230" rx="28" fill="#0D1A2D" stroke="#243E5A" stroke-width="2"/>
+  <rect x="56" y="786" width="1168" height="230" rx="28" fill="#0D1A2D" stroke="#243E5A" stroke-width="2"/>
+  <rect x="56" y="1044" width="1168" height="230" rx="28" fill="#0D1A2D" stroke="#243E5A" stroke-width="2"/>
+  <rect x="56" y="1302" width="1168" height="230" rx="28" fill="#0D1A2D" stroke="#243E5A" stroke-width="2"/>
 
-  <text x="84" y="566" fill="#79E2C0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Mar 2026 - Present</text>
-  <text x="84" y="600" fill="#79E2C0" font-family="Arial, Helvetica, sans-serif" font-size="18">McLean, VA</text>
-  <text x="300" y="570" fill="#F4F7FB" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">Cybersecurity Engineer - Contract</text>
-  <text x="300" y="612" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="24">Capital One</text>
-  <text x="300" y="678" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="22">• Conduct security assessments across AWS, Azure, and GCP services aligned with</text>
-  <text x="330" y="708" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="22">NIST 800-53 and CIS Benchmarks.</text>
-  <text x="300" y="744" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="22">• Analyze cloud misconfigurations, excessive permissions, and management-plane risks.</text>
+  <text x="84" y="326" fill="#79E2C0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Mar 2026 - Present</text>
+  <text x="84" y="360" fill="#79E2C0" font-family="Arial, Helvetica, sans-serif" font-size="18">McLean, VA</text>
+  <text x="300" y="330" fill="#F4F7FB" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">Cybersecurity Engineer - Contract</text>
+  <text x="300" y="372" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="24">Capital One</text>
+  <text x="300" y="432" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="21">• Conduct security assessments across AWS, Azure, and GCP aligned with NIST 800-53 and CIS Benchmarks.</text>
+  <text x="300" y="468" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="21">• Analyze misconfigurations, excessive permissions, and management-plane risks.</text>
 
-  <text x="84" y="844" fill="#79E2C0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Jan 2025 - Feb 2026</text>
-  <text x="84" y="878" fill="#79E2C0" font-family="Arial, Helvetica, sans-serif" font-size="18">Rockville, MD</text>
-  <text x="300" y="848" fill="#F4F7FB" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">Cybersecurity Analyst - Contract</text>
-  <text x="300" y="890" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="24">U.S. Department of Health and Human Services, IHS Division</text>
-  <text x="300" y="956" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="22">• Performed threat and event assessments across CrowdStrike, Cortex XDR, ExtraHop,</text>
-  <text x="330" y="986" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="22">and Azure IAM Identity Center.</text>
-  <text x="300" y="1022" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="22">• Investigated Splunk risk-based alerts and supported vulnerability remediation in Tenable.</text>
+  <text x="84" y="584" fill="#79E2C0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Jan 2025 - Feb 2026</text>
+  <text x="84" y="618" fill="#79E2C0" font-family="Arial, Helvetica, sans-serif" font-size="18">Rockville, MD</text>
+  <text x="300" y="588" fill="#F4F7FB" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">Cybersecurity Analyst - Contract</text>
+  <text x="300" y="630" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="24">U.S. Department of Health and Human Services, IHS Division</text>
+  <text x="300" y="690" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="21">• Performed threat and event assessments across CrowdStrike, Cortex XDR, ExtraHop, and Azure IAM Identity Center.</text>
+  <text x="300" y="726" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="21">• Investigated Splunk risk-based alerts and supported vulnerability remediation in Tenable.</text>
 
-  <text x="84" y="1116" fill="#79E2C0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Also includes Navy Federal Credit Union, Network-Fort, and Amazon Data Center experience</text>
+  <text x="84" y="842" fill="#79E2C0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Jan 2024 - Dec 2024</text>
+  <text x="84" y="876" fill="#79E2C0" font-family="Arial, Helvetica, sans-serif" font-size="18">Vienna, VA</text>
+  <text x="300" y="846" fill="#F4F7FB" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">Security Analyst - Contract</text>
+  <text x="300" y="888" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="24">Navy Federal Credit Union</text>
+  <text x="300" y="948" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="21">• Supported analysis of suspicious websites and external threats affecting members and enterprise visibility.</text>
+  <text x="300" y="984" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="21">• Conducted risk assessments aligned with NIST 800-37 and FedRAMP.</text>
+
+  <text x="84" y="1100" fill="#79E2C0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">May 2023 - Sep 2023</text>
+  <text x="84" y="1134" fill="#79E2C0" font-family="Arial, Helvetica, sans-serif" font-size="18">Reston, VA</text>
+  <text x="300" y="1104" fill="#F4F7FB" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">Cybersecurity Intern</text>
+  <text x="300" y="1146" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="24">Network-Fort</text>
+  <text x="300" y="1206" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="21">• Identified and patched 150+ vulnerabilities using CrowdStrike Falcon.</text>
+  <text x="300" y="1242" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="21">• Implemented Azure Active Directory policies and improved response workflows through XSOAR.</text>
+
+  <text x="84" y="1358" fill="#79E2C0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Mar 2021 - Dec 2022</text>
+  <text x="84" y="1392" fill="#79E2C0" font-family="Arial, Helvetica, sans-serif" font-size="18">Sterling, VA</text>
+  <text x="300" y="1362" fill="#F4F7FB" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">IT Support Associate</text>
+  <text x="300" y="1404" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="24">Amazon Data Center</text>
+  <text x="300" y="1464" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="21">• Installed and maintained server switches, performed hardware troubleshooting, and optimized IT infrastructure.</text>
+  <text x="300" y="1500" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="21">• Resolved critical server hardware issues and contributed to reduced network latency.</text>
 </svg>
