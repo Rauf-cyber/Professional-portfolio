@@ -1,34 +1,34 @@
-<svg width="1280" height="860" viewBox="0 0 1280 860" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1280" height="920" viewBox="0 0 1280 920" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="860" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="920" gradientUnits="userSpaceOnUse">
       <stop stop-color="#08111F"/>
       <stop offset="0.58" stop-color="#0B1523"/>
       <stop offset="1" stop-color="#14141D"/>
     </linearGradient>
   </defs>
 
-  <rect width="1280" height="860" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="920" rx="28" fill="url(#bg)"/>
 
   <g opacity="0.06">
-    <path d="M0 86H1280" stroke="white"/>
-    <path d="M0 172H1280" stroke="white"/>
-    <path d="M0 258H1280" stroke="white"/>
-    <path d="M0 344H1280" stroke="white"/>
-    <path d="M0 430H1280" stroke="white"/>
-    <path d="M0 516H1280" stroke="white"/>
-    <path d="M0 602H1280" stroke="white"/>
-    <path d="M0 688H1280" stroke="white"/>
-    <path d="M0 774H1280" stroke="white"/>
-    <path d="M116 0V860" stroke="white"/>
-    <path d="M232 0V860" stroke="white"/>
-    <path d="M348 0V860" stroke="white"/>
-    <path d="M464 0V860" stroke="white"/>
-    <path d="M580 0V860" stroke="white"/>
-    <path d="M696 0V860" stroke="white"/>
-    <path d="M812 0V860" stroke="white"/>
-    <path d="M928 0V860" stroke="white"/>
-    <path d="M1044 0V860" stroke="white"/>
-    <path d="M1160 0V860" stroke="white"/>
+    <path d="M0 92H1280" stroke="white"/>
+    <path d="M0 184H1280" stroke="white"/>
+    <path d="M0 276H1280" stroke="white"/>
+    <path d="M0 368H1280" stroke="white"/>
+    <path d="M0 460H1280" stroke="white"/>
+    <path d="M0 552H1280" stroke="white"/>
+    <path d="M0 644H1280" stroke="white"/>
+    <path d="M0 736H1280" stroke="white"/>
+    <path d="M0 828H1280" stroke="white"/>
+    <path d="M116 0V920" stroke="white"/>
+    <path d="M232 0V920" stroke="white"/>
+    <path d="M348 0V920" stroke="white"/>
+    <path d="M464 0V920" stroke="white"/>
+    <path d="M580 0V920" stroke="white"/>
+    <path d="M696 0V920" stroke="white"/>
+    <path d="M812 0V920" stroke="white"/>
+    <path d="M928 0V920" stroke="white"/>
+    <path d="M1044 0V920" stroke="white"/>
+    <path d="M1160 0V920" stroke="white"/>
   </g>
 
   <text x="56" y="62" fill="#79E2C0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="1.8">EDUCATION</text>
@@ -36,9 +36,9 @@
   <text x="56" y="194" fill="#F4F7FB" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800">cybersecurity engineering</text>
   <text x="56" y="256" fill="#F4F7FB" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800">and operations</text>
 
-  <rect x="56" y="338" width="360" height="430" rx="28" fill="#0D1A2D" stroke="#243E5A" stroke-width="2"/>
-  <rect x="460" y="338" width="360" height="430" rx="28" fill="#0D1A2D" stroke="#243E5A" stroke-width="2"/>
-  <rect x="864" y="338" width="360" height="430" rx="28" fill="#0D1A2D" stroke="#243E5A" stroke-width="2"/>
+  <rect x="56" y="338" width="360" height="470" rx="28" fill="#0D1A2D" stroke="#243E5A" stroke-width="2"/>
+  <rect x="460" y="338" width="360" height="470" rx="28" fill="#0D1A2D" stroke="#243E5A" stroke-width="2"/>
+  <rect x="864" y="338" width="360" height="470" rx="28" fill="#0D1A2D" stroke="#243E5A" stroke-width="2"/>
 
   <text x="92" y="408" fill="#F4F7FB" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800">M.S. in Cybersecurity</text>
   <text x="92" y="444" fill="#F4F7FB" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800">Engineering</text>
@@ -57,11 +57,12 @@
   <text x="496" y="682" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="19">Association, CCDC, and NSLS.</text>
 
   <text x="900" y="408" fill="#F4F7FB" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800">A.A.S. in Cybersecurity</text>
-  <text x="900" y="504" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="22">Northern Virginia Community College</text>
-  <text x="900" y="574" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="19">Jan 2021 - Dec 2022</text>
-  <text x="900" y="610" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="19">GPA: 3.7, Magna Cum Laude</text>
-  <text x="900" y="652" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="19">Coursework: Digital Forensics,</text>
-  <text x="900" y="682" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="19">Cryptography, Active Directory, IAM,</text>
-  <text x="900" y="712" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="19">EDR, PowerShell, Python, Kali Linux,</text>
-  <text x="900" y="742" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="19">Wireshark, Nessus, and OpenVAS.</text>
+  <text x="900" y="504" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="19">Northern Virginia Community</text>
+  <text x="900" y="534" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="19">College</text>
+  <text x="900" y="588" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="19">Jan 2021 - Dec 2022</text>
+  <text x="900" y="624" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="19">GPA: 3.7, Magna Cum Laude</text>
+  <text x="900" y="666" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="18">Coursework: Digital Forensics,</text>
+  <text x="900" y="694" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="18">Cryptography, Active Directory, IAM,</text>
+  <text x="900" y="722" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="18">EDR, PowerShell, Python, Kali Linux,</text>
+  <text x="900" y="750" fill="#A9BBD3" font-family="Arial, Helvetica, sans-serif" font-size="18">Wireshark, Nessus, and OpenVAS.</text>
 </svg>
