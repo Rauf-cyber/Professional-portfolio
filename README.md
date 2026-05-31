@@ -6,7 +6,6 @@
   <a href="#why-i-built-this-repo">Why I Built This Repo</a> •
   <a href="#how-i-approach-security">How I Approach Security</a> •
   <a href="#security-dashboard">Dashboard</a> •
-  <a href="#security-operating-loop">Operating Loop</a> •
   <a href="#portfolio-theme-mix">Theme Mix</a> •
   <a href="#experience-journey">Experience</a> •
   <a href="#education">Education</a> •
@@ -37,17 +36,6 @@ It also reflects work I have done across cloud security, incident response, vuln
   <img src="./assets/readme-dashboard.svg" alt="Security dashboard showing portfolio workstreams, environments, and tools" width="100%" />
 </p>
 
-## Security Operating Loop
-
-```mermaid
-flowchart LR
-    A["Review<br/>Cloud configs, IAM, access paths"] --> B["Detect<br/>Alerts, anomalies, suspicious activity"]
-    B --> C["Validate<br/>Triage, impact, escalation"]
-    C --> D["Remediate<br/>Vulnerabilities, permissions, control gaps"]
-    D --> E["Harden<br/>Logging, monitoring, governance"]
-    E --> F["Improve<br/>Security posture and resilience"]
-```
-
 ## Portfolio Theme Mix
 
 This chart shows the main themes I emphasize across this portfolio.
@@ -60,12 +48,6 @@ pie title Main themes represented in this portfolio
     "Governance and Controls" : 16
     "Infrastructure Security" : 12
 ```
-
-## Mission Themes
-
-<p align="center">
-  <img src="./assets/readme-mission-grid.svg" alt="Mission themes across cloud security, detection, remediation, and hardening" width="100%" />
-</p>
 
 ## Experience Journey
 
