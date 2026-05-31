@@ -3,103 +3,72 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloud_Security-79E2C0?style=for-the-badge&labelColor=0A1525" alt="Cloud Security" />
-  <img src="https://img.shields.io/badge/Incident_Response-FF9E65?style=for-the-badge&labelColor=0A1525" alt="Incident Response" />
-  <img src="https://img.shields.io/badge/Vulnerability_Management-92A9C7?style=for-the-badge&labelColor=0A1525" alt="Vulnerability Management" />
-  <img src="https://img.shields.io/badge/Databricks_Certified-EF5B25?style=for-the-badge&labelColor=0A1525" alt="Databricks Certified" />
-</p>
-
-<p align="center">
-  <a href="#profile">Profile</a> •
-  <a href="#security-focus">Security Focus</a> •
-  <a href="#security-workflow">Workflow</a> •
+  <a href="#why-i-built-this-repo">Why I Built This Repo</a> •
+  <a href="#how-i-approach-security">How I Approach Security</a> •
+  <a href="#security-operating-loop">Operating Loop</a> •
   <a href="#experience-snapshot">Experience</a> •
   <a href="#education">Education</a> •
-  <a href="#certifications">Certifications</a> •
-  <a href="#platforms--tools">Tools</a> •
+  <a href="#credentials">Credentials</a> •
+  <a href="#platforms-and-tools">Tools</a> •
   <a href="#connect">Connect</a>
 </p>
 
 ---
 
-## Profile
+## Why I Built This Repo
 
-This repository represents the professional portfolio of **Abdul Rauf Yousofzay**, a cybersecurity professional with experience across **cloud security, incident response, vulnerability management, enterprise infrastructure, and security operations**.
+I built this repository as the home for my cybersecurity portfolio.
 
-My work centers on strengthening security posture across cloud and enterprise environments through assessment, detection, triage, remediation, and governance-focused control improvement.
+Instead of only dropping in a resume, I wanted a place that shows how I think about security work, the environments I have supported, and the kind of problems I like solving. This repo is meant to feel like a practical portfolio briefing: clear, technical, and still personal.
 
-> Building stronger security posture across finance, government, and infrastructure environments.
+It also reflects work I have done across cloud security, incident response, vulnerability management, governance, and enterprise security operations.
 
-## Security Focus
+## How I Approach Security
 
-- Multi-cloud security assessments across **AWS, Azure, and GCP**
-- Threat validation, incident triage, and response workflow improvement
-- Vulnerability analysis and remediation prioritization
-- IAM, logging, monitoring, and governance control reviews
-- Security operations support in finance, government, and enterprise environments
+- I like security work that turns messy technical findings into clear action.
+- I care about controls that are useful in real environments, not just good on paper.
+- I enjoy connecting cloud risk, threat detection, remediation, and governance into one workflow.
+- I work best when I can partner with engineering and security teams to make improvements stick.
 
-## Security Workflow
+## Security Operating Loop
 
 ```mermaid
 flowchart LR
-    A["Cloud Reviews<br/>AWS | Azure | GCP"] --> B["Threat Detection<br/>Splunk | CrowdStrike | Cortex XDR"]
-    B --> C["Incident Triage<br/>Validation | Escalation | CSIRT Support"]
-    C --> D["Vulnerability Remediation<br/>Tenable | IAM | Config Fixes"]
-    D --> E["Control Hardening<br/>Logging | Monitoring | Governance"]
-    E --> F["Security Posture Improvement"]
+    A["Review<br/>Cloud configs, IAM, access paths"] --> B["Detect<br/>Alerts, anomalies, suspicious activity"]
+    B --> C["Validate<br/>Triage, impact, escalation"]
+    C --> D["Remediate<br/>Vulnerabilities, permissions, control gaps"]
+    D --> E["Harden<br/>Logging, monitoring, governance"]
+    E --> F["Improve<br/>Security posture and resilience"]
 ```
 
-## Career Highlights
+## What This Portfolio Highlights
 
 | Area | Highlights |
 |---|---|
-| Cloud Security | Assessed controls, permissions, and misconfigurations across enterprise cloud environments |
-| Detection & Triage | Worked with Splunk, CrowdStrike, Cortex XDR, and ExtraHop to improve threat visibility |
-| Incident Response | Supported ransomware and incident response efforts across containment, eradication, and recovery |
-| Vulnerability Management | Prioritized remediation of high-risk assets and helped remediate 150+ vulnerabilities |
-| Governance | Aligned reviews and security decisions with NIST, CIS, and FedRAMP-related practices |
+| Cloud Security | Reviews across AWS, Azure, and GCP with focus on permissions, misconfigurations, and control posture |
+| Detection & Response | Threat validation, Splunk triage, incident escalation, and operational workflow tuning |
+| Vulnerability Management | Prioritization and remediation support for high-risk findings across enterprise environments |
+| Governance & Controls | IAM, logging, monitoring, and framework-aligned security decision support |
+| Collaboration | Working across security and engineering teams to turn findings into practical remediation |
 
 ## Experience Snapshot
 
 | Organization | Role | Focus |
 |---|---|---|
-| Capital One | Cybersecurity Engineer | Multi-cloud reviews, control assessments, detection coverage, governance |
-| HHS / IHS Division | Cybersecurity Analyst | Threat assessments, Splunk triage, Tenable remediation, CSIRT support |
-| Navy Federal Credit Union | Security Analyst | External threat analysis, FedRAMP-aligned assessments, secure access support |
-| Network-Fort | Cybersecurity Intern | Endpoint remediation, Azure AD controls, XSOAR workflows, AWS IAM |
-| Amazon Data Center | IT Support Associate | Infrastructure support, hardware troubleshooting, uptime improvement |
+| Capital One | Cybersecurity Engineer | Multi-cloud reviews, control assessments, governance, and detection coverage |
+| HHS / IHS Division | Cybersecurity Analyst | Threat assessments, Splunk triage, Tenable remediation, and CSIRT support |
+| Navy Federal Credit Union | Security Analyst | External threat review, FedRAMP-aligned assessments, and secure access support |
+| Network-Fort | Cybersecurity Intern | Endpoint remediation, Azure AD controls, XSOAR workflows, and AWS IAM support |
+| Amazon Data Center | IT Support Associate | Infrastructure troubleshooting, hardware support, and uptime improvement |
 
-<details>
-<summary><strong>Expanded role detail</strong></summary>
+## Selected Signals
 
-### Capital One
-**Cybersecurity Engineer - Contract**  
-**March 2026 - Present**
-
-- Conduct security assessments across AWS, Azure, and GCP services
-- Analyze cloud misconfigurations, excessive permissions, and management-plane risks
-- Strengthen enterprise monitoring, policy enforcement, and detection coverage
-- Support remediation planning and secure cloud governance improvements
-
-### U.S. Department of Health and Human Services, IHS Division
-**Cybersecurity Analyst - Contract**  
-**January 2025 - February 2026**
-
-- Performed threat and event assessments across CrowdStrike, Cortex XDR, ExtraHop, and Azure IAM Identity Center
-- Investigated Splunk risk-based alerts to validate threats and escalate incidents
-- Conducted vulnerability analysis in Tenable.sc and Tenable.io
-- Supported CSIRT response and forensic investigations
-
-### Navy Federal Credit Union
-**Security Analyst - Contract**  
-**January 2024 - December 2024**
-
-- Supported analysis of suspicious websites and external threats
-- Conducted risk assessments aligned with NIST 800-37 and FedRAMP
-- Helped configure VPNs, VMs, and firewalls for secure access
-- Trained new team members on security tools and IT protocols
-
-</details>
+| Signal | Value |
+|---|---|
+| Years in cybersecurity | **4+** |
+| Forensic investigations supported | **25+** |
+| Vulnerabilities remediated | **150+** |
+| Primary environments | **Finance, Government, Infrastructure** |
 
 ## Education
 
@@ -109,7 +78,9 @@ flowchart LR
 | B.A.S. Cybersecurity | George Mason University | GPA 3.5, GMU Cybersecurity Association, CCDC |
 | A.A.S. Cybersecurity | Northern Virginia Community College | GPA 3.7, Magna Cum Laude |
 
-## Certifications
+## Credentials
+
+### Certifications
 
 - [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/49d31f7b-cb0d-474d-a351-a5c2ccdaf2ce#acc.EvaD2HL9)
 - Security+
@@ -119,7 +90,15 @@ flowchart LR
 - CSC - Cybersecurity
 - CSC - Governance, Risk, and Compliance
 
-## Platforms & Tools
+### Areas I’ve Studied and Built Through
+
+- Cloud security and IAM
+- Threat modeling and secure systems design
+- Vulnerability assessment and remediation
+- Security operations and incident response
+- Risk management and governance practices
+
+## Platforms and Tools
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
@@ -127,8 +106,12 @@ flowchart LR
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk" />
   <img src="https://img.shields.io/badge/CrowdStrike-E01F3D?style=flat-square&logo=crowdstrike&logoColor=white" alt="CrowdStrike" />
+  <img src="https://img.shields.io/badge/Cortex_XDR-F04E98?style=flat-square&logoColor=white" alt="Cortex XDR" />
+  <img src="https://img.shields.io/badge/ExtraHop-4C9AFF?style=flat-square&logoColor=white" alt="ExtraHop" />
   <img src="https://img.shields.io/badge/Tenable-00A0DF?style=flat-square&logoColor=white" alt="Tenable" />
   <img src="https://img.shields.io/badge/ServiceNow-81B441?style=flat-square&logo=servicenow&logoColor=white" alt="ServiceNow" />
+  <img src="https://img.shields.io/badge/XSOAR-1F5EFF?style=flat-square&logoColor=white" alt="XSOAR" />
+  <img src="https://img.shields.io/badge/RSA_Archer-C73A2D?style=flat-square&logoColor=white" alt="RSA Archer" />
   <img src="https://img.shields.io/badge/Databricks-EF5B25?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
 </p>
 
