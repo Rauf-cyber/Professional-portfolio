@@ -3,8 +3,16 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Multi--Cloud_Security-79E2C0?style=for-the-badge&labelColor=0A1525" alt="Multi-Cloud Security badge" />
+  <img src="https://img.shields.io/badge/Incident_Response-FF9E65?style=for-the-badge&labelColor=0A1525" alt="Incident Response badge" />
+  <img src="https://img.shields.io/badge/Vulnerability_Management-A9BBD3?style=for-the-badge&labelColor=0A1525" alt="Vulnerability Management badge" />
+  <img src="https://img.shields.io/badge/Security_Operations-213A59?style=for-the-badge&labelColor=0A1525" alt="Security Operations badge" />
+</p>
+
+<p align="center">
   <a href="#overview">Overview</a> •
-  <a href="#focus-areas">Focus Areas</a> •
+  <a href="#current-focus">Current Focus</a> •
+  <a href="#impact-snapshot">Impact</a> •
   <a href="#career-highlights">Career Highlights</a> •
   <a href="#education">Education</a> •
   <a href="#certifications">Certifications</a> •
@@ -17,15 +25,24 @@
 
 This repository represents the professional portfolio of **Abdul Rauf Yousofzay**, a cybersecurity professional with experience across **cloud security, incident response, vulnerability management, enterprise infrastructure, and security operations**.
 
-The goal of this portfolio is to present both a **live portfolio website** and a **readable GitHub-facing portfolio summary** directly on the repository page, similar to the presentation style used in other public cybersecurity portfolio repositories.
+The goal of this portfolio is to present a **clean GitHub-facing portfolio summary directly on the repository page**, using the same general tone and visual direction as the website itself: focused, modern, and centered on real security work.
 
-## Focus Areas
+## Current Focus
 
 - Multi-cloud security assessments across **AWS, Azure, and GCP**
 - Threat validation, incident triage, and response workflow improvement
 - Vulnerability analysis and remediation prioritization
 - IAM, logging, monitoring, and governance control reviews
 - Security operations support in finance, government, and enterprise environments
+
+## Impact Snapshot
+
+| Metric | Value |
+|---|---|
+| Years in cybersecurity | **4+** |
+| Forensic investigations supported | **25+** |
+| Vulnerabilities remediated | **150+** |
+| Enterprise environments supported | **Finance, Government, Infrastructure** |
 
 ## Career Highlights
 
@@ -79,15 +96,10 @@ The goal of this portfolio is to present both a **live portfolio website** and a
 - Security+
 - Network+
 - Splunk Core Investigating and Threat Hunting
+- [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/49d31f7b-cb0d-474d-a351-a5c2ccdaf2ce#acc.EvaD2HL9)
 - CSC - Network Administration
 - CSC - Cybersecurity
 - CSC - Governance, Risk, and Compliance
-
-## Portfolio Website
-
-The live website version of this portfolio is available here:
-
-[https://rauf-cyber.github.io/Professional-portfolio/](https://rauf-cyber.github.io/Professional-portfolio/)
 
 ## Tech Stack
 
