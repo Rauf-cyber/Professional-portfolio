@@ -67,6 +67,10 @@ pie title Main themes represented in this portfolio
   <img src="./assets/readme-credentials-panel.svg" alt="Credentials and platforms panel" width="100%" />
 </p>
 
+<p align="center">
+  <img src="./assets/readme-credentials-tools-strip.svg" alt="Tools and platforms used across Abdul Rauf Yousofzay's work" width="100%" />
+</p>
+
 - [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/49d31f7b-cb0d-474d-a351-a5c2ccdaf2ce#acc.EvaD2HL9)
 - Security+
 - Network+
