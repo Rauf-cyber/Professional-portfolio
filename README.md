@@ -7,7 +7,7 @@
   <a href="#how-i-approach-security">How I Approach Security</a> •
   <a href="#security-dashboard">Dashboard</a> •
   <a href="#portfolio-theme-mix">Theme Mix</a> •
-  <a href="#experience-journey">Experience</a> •
+  <a href="#experience">Experience</a> •
   <a href="#education">Education</a> •
   <a href="#credentials">Credentials</a> •
   <a href="#operator-toolkit">Toolkit</a> •
@@ -49,22 +49,11 @@ pie title Main themes represented in this portfolio
     "Infrastructure Security" : 12
 ```
 
-## Experience Journey
+## Experience
 
-```mermaid
-timeline
-    title Security Experience Journey
-    2021-2022 : Amazon Data Center
-              : Infrastructure support and hardware troubleshooting
-    2023      : Network-Fort
-              : Endpoint remediation, Azure AD controls, XSOAR, AWS IAM
-    2024      : Navy Federal Credit Union
-              : External threat review, secure access support, FedRAMP-aligned assessments
-    2025-2026 : HHS / IHS Division
-              : Threat assessments, Splunk triage, Tenable remediation, CSIRT support
-    2026-Present : Capital One
-                 : Multi-cloud reviews, governance, control assessments, detection coverage
-```
+<p align="center">
+  <img src="./assets/readme-experience-panel.svg" alt="Experience section styled with portfolio cards for Abdul Rauf Yousofzay" width="100%" />
+</p>
 
 ## Education
 
